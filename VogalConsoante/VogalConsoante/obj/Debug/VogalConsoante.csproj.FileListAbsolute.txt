@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\learning1\VogalConsoante\VogalConsoante\bin\Debug\VogalConsoante.exe.config
+C:\Users\admin\Desktop\learning1\VogalConsoante\VogalConsoante\bin\Debug\VogalConsoante.exe
+C:\Users\admin\Desktop\learning1\VogalConsoante\VogalConsoante\bin\Debug\VogalConsoante.pdb
+C:\Users\admin\Desktop\learning1\VogalConsoante\VogalConsoante\obj\Debug\VogalConsoante.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\learning1\VogalConsoante\VogalConsoante\obj\Debug\VogalConsoante.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\learning1\VogalConsoante\VogalConsoante\obj\Debug\VogalConsoante.exe
+C:\Users\admin\Desktop\learning1\VogalConsoante\VogalConsoante\obj\Debug\VogalConsoante.pdb
